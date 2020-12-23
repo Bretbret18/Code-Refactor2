@@ -5,3 +5,6 @@ fully functioning while being more accessible for users of all kinds!
 
 Deployed Site:
 https://bretbret18.github.io/Code-Refactor2/
+
+assets\images\Capture.PNG
+C:\Users\Owner\Desktop\projects\Code-Refactor2\assets\images\Capture.PNG
